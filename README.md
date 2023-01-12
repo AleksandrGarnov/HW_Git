@@ -1,5 +1,6 @@
 <details>
   <summary>HW_1 Terminal</summary>
+	
 1) Посмотреть где я
 2) Создать папку
 3) Зайти в папку
@@ -30,6 +31,7 @@ http://162.55.220.72:5005/terminal-hw-request
  
 <details>
   <summary>HW_2 Terminal </summary>
+	
 1. Сделать папку dir_1
  2. Зайти в папку dir_1
  3. Создать папку inner_dir_1
