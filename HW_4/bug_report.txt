@@ -1,0 +1,15 @@
+Bug_report
+
+	Id:1
+	Environment:Iphone 13 iOS 16.1.1
+	Precondition:
+	Title: Tab [Articles] gives an error "No Internet connection" with a stable Internet connection
+	Severity: Critical
+	STR: 	1. Open the application
+		2. Tap on the Tab [Article]
+		3. Scroll down fastly
+	Actual Result: Scrolling down returns to the first article card
+	Expected Result: Scroll down without returning to the first article
+	Attachments: link
+
+
