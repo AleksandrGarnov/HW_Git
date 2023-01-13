@@ -25,7 +25,6 @@ cat >> bug_report.txt
 git add .
 git commit -m "added new branch and new file"
 git push origin Bug_Reports
->>>>>>> Bag_Reports
 5. Вмержить ветку Bag Reports в Main
 6. Запушить main на внешний репозиторий.
 7. В ветке CheckLists набросать структуру чек листа.
